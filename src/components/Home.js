@@ -46,7 +46,7 @@ export default function Home() {
           for you to see them
         </h1>
         <Link to={"/allProduct"} className="bg-sky-500 px-5 font-bold tracking-[2px] hover:bg-sky-600 btnSlider duration-150  py-3 flex justify-center items-center rounded-md text-white">
-            safsafsa  
+            GO  
         <span className="ml-2 text-[20px] duration-200">
         <FontAwesomeIcon icon={faArrowRight} />
         </span>

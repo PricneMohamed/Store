@@ -1,10 +1,8 @@
 {
-  "name": "store-car",
+  "name": "store-product",
   "version": "0.1.0",
-  "homepage": "https://PricneMohamed.github.io/Store-Product",
   "private": true,
   "dependencies": {
-    "home-page": "https://PricneMohamed.github.io/Store-Product",
     "@fortawesome/fontawesome-svg-core": "^6.5.1",
     "@fortawesome/free-solid-svg-icons": "^6.5.1",
     "@fortawesome/react-fontawesome": "^0.2.0",
